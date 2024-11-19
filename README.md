@@ -11,5 +11,5 @@
 ## Использование
 Чтобы запустить симуляцию нужно открыть файл 2D Cellular Automata.pas в PascalABC.NET и запустить программу.
 
-![Image](https://github.com/Kekzuke/2D-Cellular-Automata/raw/image.png)
+![Image](https://github.com/Kekzuke/2D-Cellular-Automata/raw/master/image.png)
 
